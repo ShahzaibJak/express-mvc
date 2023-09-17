@@ -1,0 +1,113 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "Express MVC Employee",
+    "dateExported": "2023-09-17T13:01:09.282Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "c4c2253b-4637-4d09-b666-b855ac3898d4",
+            "colId": "5b1c20b0-c882-4ffe-b258-82de5a642f95",
+            "containerId": "",
+            "name": "Get All Employee",
+            "url": "http://localhost:3000/employees",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2023-09-17T12:40:41.758Z",
+            "modified": "2023-09-17T12:43:34.735Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "23900ee3-9fcb-4706-86f6-d5d6c8f3c2cd",
+            "colId": "5b1c20b0-c882-4ffe-b258-82de5a642f95",
+            "containerId": "",
+            "name": "Get One Employee",
+            "url": "http://localhost:3000/employees/1",
+            "method": "GET",
+            "sortNum": 15000,
+            "created": "2023-09-17T12:58:18.298Z",
+            "modified": "2023-09-17T12:58:37.042Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "8bbadb70-c4ca-4e3f-87c9-70ac9a721a82",
+            "colId": "5b1c20b0-c882-4ffe-b258-82de5a642f95",
+            "containerId": "",
+            "name": "Add Employee",
+            "url": "http://localhost:3000/employees",
+            "method": "POST",
+            "sortNum": 20000,
+            "created": "2023-09-17T12:43:57.385Z",
+            "modified": "2023-09-17T12:44:37.814Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"firstname\":\"Ali\",\n  \"lastname\":\"Zaib\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "edabdbb5-97f6-475f-a015-f6c10e1b7b02",
+            "colId": "5b1c20b0-c882-4ffe-b258-82de5a642f95",
+            "containerId": "",
+            "name": "Update Employee Put",
+            "url": "http://localhost:3000/employees",
+            "method": "PUT",
+            "sortNum": 30000,
+            "created": "2023-09-17T12:52:07.248Z",
+            "modified": "2023-09-17T12:52:53.850Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"id\":3,\n  \"firstname\":\"Ahmad\",\n  \"lastname\":\"Ali\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "47edc036-a575-4327-855e-ba9f19812628",
+            "colId": "5b1c20b0-c882-4ffe-b258-82de5a642f95",
+            "containerId": "",
+            "name": "Update Employee Patch",
+            "url": "http://localhost:3000/employees",
+            "method": "PUT",
+            "sortNum": 40000,
+            "created": "2023-09-17T12:53:13.626Z",
+            "modified": "2023-09-17T12:53:39.238Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"id\":3,\n  \"firstname\":\"Ahmad\",\n  \"lastname\":\"Ranjha\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "a78cb374-e92a-4086-b02f-b81b18147d58",
+            "colId": "5b1c20b0-c882-4ffe-b258-82de5a642f95",
+            "containerId": "",
+            "name": "Delete Employee",
+            "url": "http://localhost:3000/employees",
+            "method": "DELETE",
+            "sortNum": 40000,
+            "created": "2023-09-17T12:54:03.983Z",
+            "modified": "2023-09-17T12:54:34.986Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"id\":2\n}",
+                "form": []
+            },
+            "tests": []
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+16-09-2023	00:38:05	bdc61cd3-68bb-4553-802e-134498e68aba	GET:	undefined	/
+16-09-2023	00:38:05	da639705-4112-477a-944b-05ff1723a3c1	GET:	undefined	/styles/style.css
+16-09-2023	00:38:05	a2f6fd5d-2370-4f48-8e05-5b5622d83962	GET:	undefined	/images/image.png
+16-09-2023	02:07:49	1841e629-d189-4142-923d-a7fcc68a97c1	GET:	undefined	/
+16-09-2023	02:07:49	33c1a4d1-1935-42d3-8c5d-738221d9357a	GET:	undefined	/styles/style.css
+16-09-2023	02:07:49	e62caa18-3830-42f8-a2da-63f88149d6b4	GET:	undefined	/images/image.png
+16-09-2023	02:07:49	e5b9ed5e-4a54-489b-8acb-7db6c106d51d	GET:	undefined	/favicon.ico
+16-09-2023	02:08:38	2eadb41a-80bc-45da-b55a-91e350585e65	GET:	undefined	/
+16-09-2023	02:08:38	cf3ad9c2-df78-4b39-b5ff-cdb6694e1773	GET:	undefined	/styles/style.css
+16-09-2023	02:08:38	7e871cc0-b6a7-41a5-8afe-cd775605f4fa	GET:	undefined	/images/image.png
+16-09-2023	02:12:00	440612a3-6ac9-497c-85b1-45a05663db69	OPTIONS:	https://www.google.co.uk	/
+16-09-2023	02:12:00	33ba6a2f-d9c6-411c-b52f-981e2dd52f87	Error:	Not allowed by CORS Policy.
+16-09-2023	02:12:00	71863af5-7a82-43d3-8776-86d33a33994c	GET:	https://www.google.co.uk	/
+16-09-2023	02:12:00	9f139e55-86c2-45ff-8780-395f82164ceb	Error:	Not allowed by CORS Policy.
+16-09-2023	02:13:07	09e77b21-647f-4d74-bb8f-2874813dbdcd	OPTIONS:	https://www.google.co.uk	/
+16-09-2023	02:13:07	b63032ab-3fd4-4e4d-9949-cbd89e1346c7	Error:	Not allowed by CORS Policy.
+16-09-2023	02:13:07	db6a8ab4-88a1-47c4-8566-5f040c775190	GET:	https://www.google.co.uk	/
+16-09-2023	02:13:07	79aaefda-eac9-4b77-a5a1-9c245c7244dd	Error:	Not allowed by CORS Policy.
+16-09-2023	02:13:37	c8219ca3-3cfa-4d5c-968e-446d8a69b629	OPTIONS:	https://www.google.co.uk	/
+16-09-2023	02:13:37	8d2ed202-c721-4122-8698-a6a6e6aaaa90	Error:	Not allowed by CORS Policy.
+16-09-2023	02:13:37	4144adaa-31d0-4020-88ab-d8193fcc657e	GET:	https://www.google.co.uk	/
+16-09-2023	02:13:37	7fa2d8f6-b783-48de-b096-ba132a5ec0f2	Error:	Not allowed by CORS Policy.
+16-09-2023	02:14:11	bdf28cbf-0dcc-4f0e-b9af-4c193de70b86	OPTIONS:	https://www.google.co.uk	/
+16-09-2023	02:14:12	fdd2fbfa-213f-4769-8a4c-b9e24eb72e43	GET:	https://www.google.co.uk	/
+16-09-2023	02:15:15	604a408e-f394-4d48-986a-a546deb56427	OPTIONS:	https://www.bing.com	/
+16-09-2023	02:15:15	310e0799-df8d-4081-9847-96ef255a06cd	Error:	Not allowed by CORS Policy.
+16-09-2023	02:15:15	16005e87-9682-4b52-b650-a9323e41418d	GET:	https://www.bing.com	/
+16-09-2023	02:15:15	e703b330-fa48-4ca9-91d5-c0a21042d076	Error:	Not allowed by CORS Policy.
+16-09-2023	02:15:28	4bea491b-2ae7-4e8e-95d8-9892e440ea1a	OPTIONS:	https://www.google.co.uk	/
+16-09-2023	02:15:28	f9a53aa4-db23-45e9-90e1-725423725416	GET:	https://www.google.co.uk	/
+16-09-2023	02:16:45	e7d0d6ed-c104-4718-9dcd-df37fea74c63	GET:	undefined	/
+16-09-2023	02:16:45	4a5dc3e1-5341-4894-9727-1845cade8c97	Error:	Not allowed by CORS Policy.
+16-09-2023	02:18:08	e46e4002-b816-40bf-9076-486f8f4db89c	GET:	undefined	/
+16-09-2023	02:18:09	0ef4209d-5ed7-4b0e-8869-9bdde59c2214	GET:	undefined	/styles/style.css
+16-09-2023	02:18:09	1cc473dd-3173-4973-85cc-8768f61e3032	GET:	undefined	/images/image.png
+16-09-2023	02:18:35	5cffc23b-4fd2-4692-9802-25c7bfaba379	GET:	undefined	/
+16-09-2023	02:18:35	15a3b69e-85b6-4d1f-857d-66a53272e908	Error:	Not allowed by CORS Policy.
+16-09-2023	02:21:50	c4507c34-b5fe-48ac-aa17-36329592887c	GET:	undefined	/
+16-09-2023	02:21:50	2c254e92-ca3b-49a5-bd42-7418d407f494	Error:	Not allowed by CORS Policy.	 from undefined	 for url:/
+16-09-2023	02:22:07	ee12f990-1b74-4642-bda4-d64bdb85cd89	GET:	undefined	/
+16-09-2023	02:22:07	2ad80533-b7e0-46d3-acfe-1712069520c8	GET:	undefined	/styles/style.css
+16-09-2023	02:22:07	7d392c7b-28fb-4ec6-98be-4c9a9c8cd0b3	GET:	undefined	/images/image.png
+17-09-2023	05:42:45	78c4cc3d-da11-4c8d-a930-0453c72730d2	GET:	undefined	/
+17-09-2023	05:42:45	58e5c7fd-b782-4f40-983b-deeeaec60420	ReferenceError:	path is not defined	 from undefined	 for url:/
+17-09-2023	05:42:45	203f0dad-197a-48b9-b466-e7401b89f515	GET:	undefined	/
+17-09-2023	05:42:45	fcab898a-67e3-41fe-ae11-a8a4afeae3f4	ReferenceError:	path is not defined	 from undefined	 for url:/
+17-09-2023	05:43:34	ab689df2-e582-466f-b901-d7b5a00c87d4	GET:	undefined	/employees
+17-09-2023	05:44:47	79c2c207-17ec-403f-be36-ab33e9596bfc	POST:	undefined	/employees
+17-09-2023	05:44:51	9c1a7b54-14bc-4a8a-b9f5-783b1a27c698	GET:	undefined	/employees
+17-09-2023	05:44:53	81821ce9-8851-4da3-977f-06929ec210db	GET:	undefined	/employees
+17-09-2023	05:45:08	04554b9a-b0da-4d54-8d65-29d87e3d34e5	POST:	undefined	/employees
+17-09-2023	05:45:13	f6e934c0-4700-4c6e-91db-2ba6bfe0f0f4	GET:	undefined	/employees
+17-09-2023	05:45:50	3c959f9e-0992-4d0c-a60c-31e571ea82ae	POST:	undefined	/employees
+17-09-2023	05:45:52	42407888-1e01-4707-8281-bbce8bec4b28	POST:	undefined	/employees
+17-09-2023	05:46:27	ca08d5a1-aa44-4b2e-a284-46b906130a28	POST:	undefined	/employees
+17-09-2023	05:46:28	761d213e-b974-42be-9051-652d66cac8cb	POST:	undefined	/employees
+17-09-2023	05:47:05	52bf4002-4532-4d62-9618-88c1589f0d8a	POST:	undefined	/employees
+17-09-2023	05:47:40	4ff29d97-3537-4f66-8740-ffa899b6fe37	GET:	undefined	/employees
+17-09-2023	05:47:42	d970e521-b744-44a1-b2c3-ce3b3ab72823	GET:	undefined	/employees
+17-09-2023	05:51:39	91e49d3a-f09e-4db8-bd00-1df43037ad7e	POST:	undefined	/employees
+17-09-2023	05:51:40	9d8f60ab-df29-477f-956c-1cee80bbd102	POST:	undefined	/employees
+17-09-2023	05:52:58	a525d533-b31e-478a-8f2c-89f1886d0a12	PUT:	undefined	/employees
+17-09-2023	05:53:04	adabd540-cf91-4c33-a3fa-994e692044ef	GET:	undefined	/employees
+17-09-2023	05:53:42	123ab0ff-ccb7-4f49-8e41-f29b327f882b	PUT:	undefined	/employees
+17-09-2023	05:53:46	e8acf1b9-e644-4f7a-b0fa-5057f04a661d	GET:	undefined	/employees
+17-09-2023	05:54:37	5d4746c6-3015-4e41-9875-348261599a0a	DELETE:	undefined	/employees
+17-09-2023	05:55:27	7a0d7713-f2b7-4c03-affd-f0c912bc1df1	POST:	undefined	/employees
+17-09-2023	05:55:28	47f51bed-13d5-4f66-be0a-617597afb25b	POST:	undefined	/employees
+17-09-2023	05:55:38	b7384101-6173-4be8-b787-e9bb1f3f640e	PUT:	undefined	/employees
+17-09-2023	05:55:42	13c96ec6-bf70-4fbd-91ee-4dc7c066852a	PUT:	undefined	/employees
+17-09-2023	05:55:46	66fa9f60-a2bf-4695-b247-583b104b0fc3	GET:	undefined	/employees
+17-09-2023	05:55:54	c6188027-ad5e-42e5-92ac-70ad27d18fb5	DELETE:	undefined	/employees
+17-09-2023	05:56:01	1ca23246-6192-4c71-a16f-f8db57ac88a1	GET:	undefined	/employees
+17-09-2023	05:57:03	d090bfda-16d3-44bd-9b4a-43d1e637ad41	POST:	undefined	/employees
+17-09-2023	05:57:04	23ca2261-ce29-4ffe-88de-1219a2bbdb77	POST:	undefined	/employees
+17-09-2023	05:57:08	e85ab662-a234-4e46-8cb7-7fa729cf147e	PUT:	undefined	/employees
+17-09-2023	05:57:10	b3c1ff57-17f5-4aec-8e67-9b64c096aadb	PUT:	undefined	/employees
+17-09-2023	05:57:15	a35771d2-e775-4fff-adc5-3895d81f2929	GET:	undefined	/employees
+17-09-2023	05:57:19	418666f1-f2bc-4d77-b0ea-a9f50032d17c	DELETE:	undefined	/employees
+17-09-2023	05:57:41	fd15fada-9244-4e36-ada1-c7bd3975384e	GET:	undefined	/employees
+17-09-2023	05:57:59	90eb6fec-3ff8-433d-a85d-32ca750a2b69	POST:	undefined	/employees
+17-09-2023	05:58:02	851e6c35-728c-4bb2-bc25-7c58cd3b9db3	POST:	undefined	/employees
+17-09-2023	05:58:06	be9c796a-2e69-45f4-9740-482b2849e4a9	DELETE:	undefined	/employees
+17-09-2023	05:58:11	d0297691-766b-416f-a735-4f2bc5f5395c	GET:	undefined	/employees
+17-09-2023	05:58:37	a70cad29-079b-4518-b3c7-75c54cd02e0e	GET:	undefined	/employees/1
+17-09-2023	05:58:42	ed9631fe-8f02-41b5-b63f-5ee46f2583e6	GET:	undefined	/employees/1
+17-09-2023	05:58:53	11799400-27c9-40e3-b6bb-10a3cac2a618	GET:	undefined	/employees
+17-09-2023	05:58:55	66b44eed-91ac-45fd-8a72-bbb7a546cc9b	GET:	undefined	/employees/1
+17-09-2023	06:00:55	be3e77f0-2395-4f45-9075-1e51a6308efc	GET:	undefined	/employees/1
